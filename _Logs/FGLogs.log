@@ -1,0 +1,13 @@
+﻿Error [6/17/2018 3:48:24 PM] : FGSerializer.Deserialize : 序列化类型不支持
+Error [6/17/2018 4:02:44 PM] : FGSerializer.Deserialize : 序列化类型不支持System.Collections.Generic.List`1[System.Int32]  System.Int32
+Error [6/17/2018 4:04:19 PM] : FGSerializer.Deserialize : 序列化类型不支持List`1  Int32
+Error [6/17/2018 4:07:22 PM] : FGSerializer.Deserialize : 序列化类型不支持List`1  Int32
+Error [6/17/2018 4:07:22 PM] : 10
+Error [6/17/2018 4:07:22 PM] : 100
+Error [6/17/2018 4:08:58 PM] : FGSerializer.Deserialize : 序列化类型不支持List`1  Int32
+Error [6/17/2018 4:09:57 PM] : 10
+Error [6/17/2018 4:09:57 PM] : 100
+Error [6/17/2018 4:21:02 PM] : 10   1
+Error [6/17/2018 4:21:02 PM] : 100   2
+Error [6/17/2018 4:23:07 PM] : 10
+Error [6/17/2018 4:23:07 PM] : 100
